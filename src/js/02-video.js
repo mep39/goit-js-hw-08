@@ -1,4 +1,4 @@
-import {throttle} from "lodash";
+import throttle from 'lodash.throttle';
 import Player from "@vimeo/player";
 
 const KEY_SAVE_CURRENT_TIME = 'videoplayer-current-time'; 
